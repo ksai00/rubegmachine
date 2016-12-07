@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/DominosPIZZA.unity
+  isLoaded: 1
+  isActive: 1
